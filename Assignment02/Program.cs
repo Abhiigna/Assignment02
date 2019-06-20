@@ -34,6 +34,7 @@ namespace Assignment02
                             do
                             {
                                 Console.WriteLine("Enter First Side: ");
+                                //convert a string representation of number to an integer
                             } while (!int.TryParse(Console.ReadLine(), out line1));
                         } while (line1 <= 0);
                         do
