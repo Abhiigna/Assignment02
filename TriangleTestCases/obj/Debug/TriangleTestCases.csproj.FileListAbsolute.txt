@@ -1,0 +1,12 @@
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\TriangleTestCases.dll
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\TriangleTestCases.pdb
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\Assignment02.exe
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\nunit.framework.dll
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\Assignment02.pdb
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\Assignment02.exe.config
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\bin\Debug\nunit.framework.xml
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\obj\Debug\TriangleTestCases.csprojAssemblyReference.cache
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\obj\Debug\TriangleTestCases.csproj.CoreCompileInputs.cache
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\obj\Debug\TriangleTestCases.csproj.CopyComplete
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\obj\Debug\TriangleTestCases.dll
+S:\Sem 2\SQA\Assignment02\TriangleTestCases\obj\Debug\TriangleTestCases.pdb
